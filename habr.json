@@ -1,0 +1,422 @@
+[
+    {
+        "author": "SLY_G",
+        "hubs": "Системное программирование, C",
+        "pub_date": "сегодня в 00:26",
+        "title": "Ограничение памяти, доступной программе",
+        "url": "http://habrahabr.ru/post/266083/"
+    },
+    {
+        "author": "urx",
+        "hubs": "Программирование, Qt, Блог компании НТЦ Метротек",
+        "pub_date": "вчера в 22:00",
+        "title": "Простой драйвер rotary encoder для Qt4 Embedded под Linux",
+        "url": "http://habrahabr.ru/company/metrotek/blog/266075/"
+    },
+    {
+        "author": "GlukKazan",
+        "hubs": "Game Development",
+        "pub_date": "вчера в 18:28",
+        "title": "Dagaz: Пинки здравому смыслу (часть 10)",
+        "url": "http://habrahabr.ru/post/265843/"
+    },
+    {
+        "author": "duran242",
+        "hubs": "Разработка систем связи, ИТ-инфраструктура, Беспроводные технологии, SaaS / S+S, Блог компании Альтегро",
+        "pub_date": "вчера в 00:53",
+        "title": "Продать за 60 секунд. Call-центр в облаке и специальная сим-карта",
+        "url": "http://habrahabr.ru/company/altegro/blog/266003/"
+    },
+    {
+        "author": "MagisterLudi",
+        "hubs": "Профессиональная литература, Программирование",
+        "pub_date": "вчера в 14:48",
+        "title": "Книги, по которым мы в детстве учили программирование и будем учить детей",
+        "url": "http://habrahabr.ru/post/265787/"
+    },
+    {
+        "author": "risik",
+        "hubs": "Хостинг, Облачные вычисления",
+        "pub_date": "вчера в 17:08",
+        "title": "Первый взгляд на Scaleway",
+        "url": "http://habrahabr.ru/post/266059/"
+    },
+    {
+        "author": "BarakAdama",
+        "hubs": "Расширения для браузеров, Информационная безопасность, Вирусы и антивирусы, Браузеры, Блог компании Яндекс",
+        "pub_date": "вчера в 18:04",
+        "title": "Опасный мир вредоносных расширений и защита от них. Опыт Яндекс.Браузера",
+        "url": "http://habrahabr.ru/company/yandex/blog/266061/"
+    },
+    {
+        "author": "Блог компании «Альфа-Банк»",
+        "hubs": "",
+        "pub_date": "вчера в 18:01",
+        "title": "Электронный банкинг для разработчиков",
+        "url": "http://habrahabr.ru/article/266049/"
+    },
+    {
+        "author": "ph_piter",
+        "hubs": "Профессиональная литература, Блог компании Издательский дом «Питер»",
+        "pub_date": "вчера в 12:40",
+        "title": "Первая книга юного программиста. Учимся писать программы на Scratch",
+        "url": "http://habrahabr.ru/company/piter/blog/266019/"
+    },
+    {
+        "author": "CANMOS",
+        "hubs": "Asterisk",
+        "pub_date": "вчера в 11:28",
+        "title": "Подключение Asterisk по ОКС-7",
+        "url": "http://habrahabr.ru/post/265983/"
+    },
+    {
+        "author": "MagisterLudi",
+        "hubs": "Профессиональная литература, Платежные системы, Информационная безопасность",
+        "pub_date": "вчера в 13:26",
+        "title": "Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 12. «Free Amex!»",
+        "url": "http://habrahabr.ru/post/266039/"
+    },
+    {
+        "author": "marks",
+        "hubs": "Облачные вычисления, Алгоритмы, Блог компании IBM",
+        "pub_date": "вчера в 11:34",
+        "title": "Когнитивная система IBM Watson: принципы работы с естественным языком",
+        "url": "http://habrahabr.ru/company/ibm/blog/266015/"
+    },
+    {
+        "author": "ivorobts",
+        "hubs": "Разработка, Программирование, Блог компании Intel",
+        "pub_date": "вчера в 12:12",
+        "title": "Много лицензий, хороших и разных",
+        "url": "http://habrahabr.ru/company/intel/blog/265683/"
+    },
+    {
+        "author": "vedenin1980",
+        "hubs": "Разработка, Программирование, Open source, JAVA, API",
+        "pub_date": "вчера в 10:54",
+        "title": "Шпаргалки Java программиста часть 1: JPA и Hibernate в вопросах и ответах",
+        "url": "http://habrahabr.ru/post/265061/"
+    },
+    {
+        "author": "sergeylanz",
+        "hubs": "Ruby on Rails, Go",
+        "pub_date": "вчера в 13:20",
+        "title": "Подключения Go shared library к Ruby",
+        "url": "http://habrahabr.ru/post/266037/"
+    },
+    {
+        "author": "couatl",
+        "hubs": "Программирование, Вконтакте API, Data Mining, Блог компании HeadHunter",
+        "pub_date": "вчера в 12:35",
+        "title": "Введение в анализ социальных сетей на примере VK API",
+        "url": "http://habrahabr.ru/company/hh/blog/263313/"
+    },
+    {
+        "author": "vektory79",
+        "hubs": "JAVA",
+        "pub_date": "вчера в 09:47",
+        "title": "Takari: Maven на стероидах",
+        "url": "http://habrahabr.ru/post/266011/"
+    },
+    {
+        "author": "asommer",
+        "hubs": "Разработка под Windows Phone, Разработка под Windows, C#",
+        "pub_date": "вчера в 11:14",
+        "title": "Компилируемые привязки данных в приложениях Windows 10",
+        "url": "http://habrahabr.ru/post/265993/"
+    },
+    {
+        "author": "Roninsc2",
+        "hubs": "Программирование, Алгоритмы, C",
+        "pub_date": "вчера в 12:08",
+        "title": "Компенсация погрешностей при операциях с числами с плавающей запятой",
+        "url": "http://habrahabr.ru/post/266023/"
+    },
+    {
+        "author": "jvetrau",
+        "hubs": "Интерфейсы, Дизайн мобильных приложений, Веб-дизайн, Usability, Блог компании Mail.Ru Group",
+        "pub_date": "вчера в 12:27",
+        "title": "Дайджест продуктового дизайна, август 2015",
+        "url": "http://habrahabr.ru/company/mailru/blog/266013/"
+    },
+    {
+        "author": "Orioner",
+        "hubs": "Промышленное программирование, ИТ-инфраструктура, Блог компании КРОК",
+        "pub_date": "вчера в 12:00",
+        "title": "АСУ ТП: как мы создавали систему для точного расчета наработки станков большого завода",
+        "url": "http://habrahabr.ru/company/croc/blog/266007/"
+    },
+    {
+        "author": "dmitrysamsonov",
+        "hubs": "Системное администрирование, Сетевые технологии, ИТ-инфраструктура, Высокая производительность, Блог компании Одноклассники",
+        "pub_date": "вчера в 11:57",
+        "title": "Тюним память и сетевой стек в Linux: история перевода высоконагруженных серверов на свежий дистрибутив",
+        "url": "http://habrahabr.ru/company/odnoklassniki/blog/266005/"
+    },
+    {
+        "author": "Jeditobe",
+        "hubs": "Реверс-инжиниринг, Разработка под Windows, Разработка, Open source, Блог компании Фонд ReactOS",
+        "pub_date": "вчера в 01:21",
+        "title": "ReactOS-Хакфест или еще один вариант про… кодить последний месяц лета",
+        "url": "http://habrahabr.ru/company/reactos/blog/265931/"
+    },
+    {
+        "author": "MagisterLudi",
+        "hubs": "Профессиональная литература, Платежные системы, Информационная безопасность",
+        "pub_date": " 2 сентября в 17:31",
+        "title": "Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 11. «Script’s Twenty-Dollar Dumps»",
+        "url": "http://habrahabr.ru/post/265989/"
+    },
+    {
+        "author": "kichik",
+        "hubs": "Разработка под Windows Phone, Разработка под Windows, Блог компании Microsoft",
+        "pub_date": " 2 сентября в 16:03",
+        "title": "Сенсоры контекста в Windows 10",
+        "url": "http://habrahabr.ru/company/microsoft/blog/265963/"
+    },
+    {
+        "author": "deliya",
+        "hubs": "Яндекс API, Семантика, Поисковые машины и технологии, Микроформаты, Блог компании Яндекс",
+        "pub_date": " 2 сентября в 16:19",
+        "title": "API для валидатора от Яндекса. А также почему валидаторы микроразметки выдают разные ответы?",
+        "url": "http://habrahabr.ru/company/yandex/blog/265965/"
+    },
+    {
+        "author": "CooperMaster",
+        "hubs": "Тестирование мобильных приложений, Разработка под Android, Блог компании Intel",
+        "pub_date": " 2 сентября в 14:00",
+        "title": "Использование Intel HAXM при разработке приложений для Android Wear и TV",
+        "url": "http://habrahabr.ru/company/intel/blog/265791/"
+    },
+    {
+        "author": "good_day_4all",
+        "hubs": "Системное администрирование, Серверное администрирование, ИТ-инфраструктура, Блог компании WestComp",
+        "pub_date": " 2 сентября в 13:49",
+        "title": "И эти люди запрещают мне ковыряться в носу...(в продолжение темы салазок для HDD)",
+        "url": "http://habrahabr.ru/company/westcomp/blog/265967/"
+    },
+    {
+        "author": "KhvPhoenix",
+        "hubs": "Настройка Linux, Service Desk",
+        "pub_date": " 2 сентября в 14:24",
+        "title": "Небольшие полезности для связки GLPI+FusionInventory",
+        "url": "http://habrahabr.ru/post/265971/"
+    },
+    {
+        "author": "warlog",
+        "hubs": "Oracle, Блог компании Oracle",
+        "pub_date": " 2 сентября в 11:01",
+        "title": "Подняться в облака — чтобы не зарывать в землю",
+        "url": "http://habrahabr.ru/company/oracle/blog/265863/"
+    },
+    {
+        "author": "alyadem",
+        "hubs": "Хранение данных, Резервное копирование, ИТ-инфраструктура, Восстановление данных, Блог компании Тринити",
+        "pub_date": " 2 сентября в 13:36",
+        "title": "Масштабное исследование сбоев Flash накопителей (обзор статьи)",
+        "url": "http://habrahabr.ru/company/trinity/blog/264463/"
+    },
+    {
+        "author": "elena_voronina",
+        "hubs": "Ruby on Rails, Ruby, Блог компании «RailsClub»",
+        "pub_date": " 2 сентября в 10:32",
+        "title": "RailsClub 2015: Интервью c Коичи Сасада",
+        "url": "http://habrahabr.ru/company/railsclub/blog/265921/"
+    },
+    {
+        "author": "OyraOyra",
+        "hubs": "Системное администрирование, Настройка Linux, DNS",
+        "pub_date": " 2 сентября в 14:23",
+        "title": "Безопасное динамическое обновление записей на MS DNS из Linux",
+        "url": "http://habrahabr.ru/post/265969/"
+    },
+    {
+        "author": "Meklon",
+        "hubs": "Обработка изображений, Алгоритмы, Open source, JAVA",
+        "pub_date": " 2 сентября в 13:42",
+        "title": "Как разобрать обезьяньи кишки на составные части. Изучаем цветовую деконволюцию",
+        "url": "http://habrahabr.ru/post/265961/"
+    },
+    {
+        "author": "SerCe",
+        "hubs": "JAVA, Блог компании Naumen",
+        "pub_date": " 2 сентября в 11:07",
+        "title": "Анонс пятой встречи Java User Group EKB",
+        "url": "http://habrahabr.ru/company/naumen/blog/265743/"
+    },
+    {
+        "author": "akrot",
+        "hubs": "Поисковые машины и технологии, Математика, Data Mining, Big Data, Блог компании MLClass",
+        "pub_date": " 2 сентября в 12:11",
+        "title": "Кто ВКонтакте самый главный?",
+        "url": "http://habrahabr.ru/company/mlclass/blog/265923/"
+    },
+    {
+        "author": "Yota4All",
+        "hubs": "Стандарты связи, Мобильный веб, Беспроводные технологии, Блог компании Yota",
+        "pub_date": " 2 сентября в 13:04",
+        "title": "Yota доставляет",
+        "url": "http://habrahabr.ru/company/yota/blog/265947/"
+    },
+    {
+        "author": "it_man",
+        "hubs": "Высокая производительность, Git, Блог компании ИТ-ГРАД",
+        "pub_date": " 2 сентября в 11:53",
+        "title": "Как мы увеличили скорость работы git-сервера на 30 000%",
+        "url": "http://habrahabr.ru/company/it-grad/blog/265957/"
+    },
+    {
+        "author": "shulyndina",
+        "hubs": "Программирование, Python, Django, Блог компании IT-People",
+        "pub_date": " 2 сентября в 11:41",
+        "title": "Программа конференции PYCON RUSSIA 2015",
+        "url": "http://habrahabr.ru/company/it_people/blog/265953/"
+    },
+    {
+        "author": "paulig",
+        "hubs": "Реверс-инжиниринг, Разработка, Программирование, Forth, Блог компании НТЦ Метротек",
+        "pub_date": " 2 сентября в 10:25",
+        "title": "Как мы проводили конкурс hardware hack на Chaos Constructions 2015",
+        "url": "http://habrahabr.ru/company/metrotek/blog/265873/"
+    },
+    {
+        "author": "geran_utran",
+        "hubs": "Стандарты связи, Разработка систем связи, Работа со звуком, ИТ-инфраструктура, Блог компании ВымпелКом (Билайн)",
+        "pub_date": " 2 сентября в 10:22",
+        "title": "Доставляем голос в мобильной сети: шаг 2 — Аналогово Цифровое Преобразование",
+        "url": "http://habrahabr.ru/company/beeline/blog/265841/"
+    },
+    {
+        "author": "artemgapchenko",
+        "hubs": "Разработка под Android, Разработка мобильных приложений",
+        "pub_date": " 2 сентября в 09:53",
+        "title": "Грокаем RxJava, часть третья: Реактивность с пользой",
+        "url": "http://habrahabr.ru/post/265727/"
+    },
+    {
+        "author": "olgakuznet_ms",
+        "hubs": "Блог компании Microsoft",
+        "pub_date": " 2 сентября в 09:26",
+        "title": "Сегодня в 12:00 (МСК) смотрите трансляцию Jump Start: «Windows 10 в корпоративной сети»",
+        "url": "http://habrahabr.ru/company/microsoft/blog/265865/"
+    },
+    {
+        "author": "Mangalore",
+        "hubs": "Разработка под Android, Информационная безопасность",
+        "pub_date": " 2 сентября в 11:03",
+        "title": "Уязвимость (?) и слежка в эмуляторе Bluestacks?",
+        "url": "http://habrahabr.ru/post/265943/"
+    },
+    {
+        "author": "glagoleva",
+        "hubs": "Тестирование веб-сервисов, Виртуализация, Веб-разработка",
+        "pub_date": " 2 сентября в 10:51",
+        "title": "Как быстро и бесплатно получить доступ к windows на osx или linux",
+        "url": "http://habrahabr.ru/post/265935/"
+    },
+    {
+        "author": "NIX_Solutions",
+        "hubs": "Сетевые технологии, Разработка, Блог компании NIX Solutions",
+        "pub_date": " 2 сентября в 10:40",
+        "title": "Жизнь и графы: сетевой подход к моделированию систем",
+        "url": "http://habrahabr.ru/company/nixsolutions/blog/265733/"
+    },
+    {
+        "author": "astudent",
+        "hubs": "Разработка под Android, Разработка мобильных приложений, Проектирование и рефакторинг, Дизайн мобильных приложений, Векторная графика",
+        "pub_date": " 2 сентября в 09:16",
+        "title": "Легко переходим на векторный формат картинок вместо нарезки под разные плотности экранов в Android 4.0+. Часть 2 из 2",
+        "url": "http://habrahabr.ru/post/265603/"
+    },
+    {
+        "author": "akakunin",
+        "hubs": "Open source, JAVA, ECM/СЭД",
+        "pub_date": " 2 сентября в 00:30",
+        "title": "Что нас ждет в Liferay 7.0",
+        "url": "http://habrahabr.ru/post/265919/"
+    },
+    {
+        "author": "Londain",
+        "hubs": "Платежные системы",
+        "pub_date": " 2 сентября в 02:44",
+        "title": "PayPal запустил сервис PayPal.Me",
+        "url": "http://habrahabr.ru/post/265933/"
+    },
+    {
+        "author": "1vanK",
+        "hubs": "Open source, Game Development",
+        "pub_date": " 2 сентября в 04:30",
+        "title": "Редактор Urho3D (часть 2)",
+        "url": "http://habrahabr.ru/post/265837/"
+    },
+    {
+        "author": "Darthman",
+        "hubs": "Game Development",
+        "pub_date": " 1 сентября в 22:27",
+        "title": "Путеводитель по реализации 2Д платформеров (начало)",
+        "url": "http://habrahabr.ru/post/265911/"
+    },
+    {
+        "author": "RabbitGP",
+        "hubs": "Веб-разработка, Веб-дизайн, Блог компании TemplateMonster Russia",
+        "pub_date": " 1 сентября в 18:33",
+        "title": "Знакомство с Moto CMS 3",
+        "url": "http://habrahabr.ru/company/tmru/blog/265905/"
+    },
+    {
+        "author": "truesnow",
+        "hubs": "Ruby on Rails, Блог компании #tceh",
+        "pub_date": " 1 сентября в 17:33",
+        "title": "Конкурс «Признайся в любви или напиши поэму на Ruby on Rails»",
+        "url": "http://habrahabr.ru/company/tceh/blog/265903/"
+    },
+    {
+        "author": "henryjamesmoodyjunior",
+        "hubs": "Разработка под Android",
+        "pub_date": " 1 сентября в 15:56",
+        "title": "Я не верблюд или чересчур бдительный Google",
+        "url": "http://habrahabr.ru/post/265895/"
+    },
+    {
+        "author": "DanceofDeath",
+        "hubs": "Профессиональная литература, Платежные системы, Информационная безопасность",
+        "pub_date": " 1 сентября в 15:56",
+        "title": "Подпольный рынок кардеров. Перевод книги «KingPIN». Глава 9. «Возможности»",
+        "url": "http://habrahabr.ru/post/265335/"
+    },
+    {
+        "author": "prodex",
+        "hubs": "Работа с видео, Веб-разработка, Nginx",
+        "pub_date": " 1 сентября в 16:03",
+        "title": "Псевдостриминг mp4 в nginx с каналом 7Gbit/s",
+        "url": "http://habrahabr.ru/post/265897/"
+    },
+    {
+        "author": "youROCK",
+        "hubs": "Облачные вычисления, Веб-разработка, PHP, Go, Блог компании Badoo",
+        "pub_date": " 1 сентября в 14:16",
+        "title": "Эволюция сборки логов «облака» и сборщик логов в open source",
+        "url": "http://habrahabr.ru/company/badoo/blog/265875/"
+    },
+    {
+        "author": "ULP",
+        "hubs": "Хранение данных, ИТ-инфраструктура, Блог компании HOSTKEY",
+        "pub_date": " 1 сентября в 15:29",
+        "title": "SSD-накопители Samsung большой емкости для серверов",
+        "url": "http://habrahabr.ru/company/hostkey/blog/265803/"
+    },
+    {
+        "author": "Jon_White",
+        "hubs": "Тестирование веб-сервисов, Тестирование IT-систем",
+        "pub_date": " 1 сентября в 15:50",
+        "title": "QA в наше время. «Принцип Свитчера» или почему отрасли критически не хватает компетенции",
+        "url": "http://habrahabr.ru/post/265893/"
+    },
+    {
+        "author": "snezhko",
+        "hubs": "Системное администрирование, Сетевые технологии, ИТ-инфраструктура, Asterisk, Блог компании 3CX Ltd.",
+        "pub_date": " 1 сентября в 14:36",
+        "title": "Мобильная интеграция с новой облачной АТС 3CX v14",
+        "url": "http://habrahabr.ru/company/3cx/blog/265883/"
+    }
+]
